@@ -1,0 +1,13 @@
+C:\SELF-PREP\LeetCode\LeetCode\bin\Debug\netcoreapp3.1\LeetCode.exe
+C:\SELF-PREP\LeetCode\LeetCode\bin\Debug\netcoreapp3.1\LeetCode.deps.json
+C:\SELF-PREP\LeetCode\LeetCode\bin\Debug\netcoreapp3.1\LeetCode.runtimeconfig.json
+C:\SELF-PREP\LeetCode\LeetCode\bin\Debug\netcoreapp3.1\LeetCode.runtimeconfig.dev.json
+C:\SELF-PREP\LeetCode\LeetCode\bin\Debug\netcoreapp3.1\LeetCode.dll
+C:\SELF-PREP\LeetCode\LeetCode\bin\Debug\netcoreapp3.1\LeetCode.pdb
+C:\SELF-PREP\LeetCode\LeetCode\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\SELF-PREP\LeetCode\LeetCode\obj\Debug\netcoreapp3.1\LeetCode.AssemblyInfoInputs.cache
+C:\SELF-PREP\LeetCode\LeetCode\obj\Debug\netcoreapp3.1\LeetCode.AssemblyInfo.cs
+C:\SELF-PREP\LeetCode\LeetCode\obj\Debug\netcoreapp3.1\LeetCode.csproj.CopyComplete
+C:\SELF-PREP\LeetCode\LeetCode\obj\Debug\netcoreapp3.1\LeetCode.dll
+C:\SELF-PREP\LeetCode\LeetCode\obj\Debug\netcoreapp3.1\LeetCode.pdb
+C:\SELF-PREP\LeetCode\LeetCode\obj\Debug\netcoreapp3.1\LeetCode.csprojAssemblyReference.cache
